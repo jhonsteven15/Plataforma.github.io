@@ -27,14 +27,14 @@ body {
 }
 
 .carousel-item {
-  height: 22rem;
+  height: 40rem;
 }
 .carousel-item > img {
   position: absolute;
   top: 0;
   left: 0;
   min-width: 100%;
-  height: 32rem;
+  height: 60rem;
 }
 
 .alert-secondary {
